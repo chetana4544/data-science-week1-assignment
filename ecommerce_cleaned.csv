@@ -1,0 +1,167 @@
+Order ID,Customer ID,Product Name,Category,Quantity,Unit Price,Total Amount,Order Date,Payment Mode,Delivery Status,City or Region
+ORD0001,CUST0001,Printer,Electronics,2.0,50.0,100.0,2024-05-20,Card,Pending,Vadodara
+ORD0002,CUST0002,Router,Electronics,2.0,700.0,1400.0,2024-10-06,UPI,Unknown,Pune
+ORD0003,CUST0003,Wireless Mouse,Electronics,1.0,150.0,150.0,2024-04-21,Card,Returned,Ahmedabad
+ORD0006,CUST0006,Desk Lamp,Home Decor,3.0,500.0,1500.0,2024-06-21,UPI,delivered,Pune
+ORD0007,CUST0007,Bluetooth Speaker,Electronics,6.0,1200.0,7200.0,2024-11-05,Cash,Delivered,Jaipur
+ORD0008,CUST0008,Coffee Mug,Home,2.0,2200.0,4400.0,2024-02-10,Unknown,Pending,Mumbai
+ORD0010,CUST0010,Bluetooth Speaker,Electronics,4.0,150.0,600.0,2024-07-13,Cash,Cancelled,Mumbai
+ORD0011,CUST0011,Notebook,Stationery,6.0,1200.0,7200.0,2024-04-17,Cash,delivered,Vadodara
+ORD0012,CUST0012,Coffee Mug,Home,4.0,250.0,1000.0,2024-08-24,Net Banking,Pending,Rajkot
+ORD0013,CUST0013,Printer,Electronics,6.0,50.0,300.0,2024-04-27,UPI,In Transit,Pune
+ORD0014,CUST0014,Desk Lamp,Home Decor,2.0,500.0,1000.0,2024-10-17,Cash,Pending,Jaipur
+ORD0015,CUST0015,USB Cable,Electronics,8.0,250.0,2000.0,2024-05-15,Card,Pending,Gandhinagar
+ORD0017,CUST0017,Notebook,Stationery,4.0,3500.0,14000.0,2024-02-16,UPI,delivered,Vadodara
+ORD0018,CUST0018,Printer,Electronics,3.0,700.0,2100.0,2024-08-04,Unknown,delivered,Pune
+ORD0020,CUST0020,Printer,Electronics,2.0,700.0,1400.0,2024-10-01,Cash,In Transit,Surat
+ORD0021,CUST0021,Desk Lamp,Home Decor,7.0,250.0,1750.0,2024-08-20,UPI,Pending,Vadodara
+ORD0022,CUST0022,Coffee Mug,Home,2.0,700.0,1400.0,2024-06-01,Unknown,Unknown,Rajkot
+ORD0023,CUST0023,Notebook,Stationery,6.0,250.0,1500.0,2024-10-03,Unknown,Delivered,Mumbai
+ORD0024,CUST0024,Monitor,Electronics,1.0,150.0,150.0,2024-07-04,Cash,Pending,Ahmedabad
+ORD0026,CUST0026,Notebook,Stationery,8.0,4500.0,36000.0,2024-03-25,Cash,Returned,Pune
+ORD0028,CUST0028,Printer,Electronics,6.0,3500.0,21000.0,2024-09-21,Net Banking,delivered,Rajkot
+ORD0029,CUST0029,Office Chair,Furniture,2.0,1200.0,2400.0,2024-01-11,Unknown,Returned,Rajkot
+ORD0030,CUST0030,Keyboard,Electronics,4.0,50.0,200.0,2024-02-06,UPI,Pending,Surat
+ORD0031,CUST0031,Wireless Mouse,Electronics,6.0,150.0,900.0,2024-09-20,Card,Pending,Jaipur
+ORD0032,CUST0032,Office Chair,Furniture,4.0,250.0,1000.0,2024-10-19,Unknown,Cancelled,Rajkot
+ORD0033,CUST0033,Marker,Stationery,8.0,2200.0,17600.0,2024-04-07,UPI,delivered,Pune
+ORD0034,CUST0034,Water Bottle,Home,7.0,2200.0,15400.0,2024-08-27,UPI,delivered,Ahmedabad
+ORD0035,CUST0035,USB Cable,Electronics,6.0,150.0,900.0,2024-05-07,Card,Pending,Jaipur
+ORD0036,CUST0036,Notebook,Stationery,7.0,250.0,1750.0,2024-05-22,Net Banking,Pending,Surat
+ORD0037,CUST0037,Monitor,Electronics,4.0,150.0,600.0,2024-01-26,Unknown,Delivered,Surat
+ORD0038,CUST0038,Marker,Stationery,4.0,250.0,1000.0,2024-07-27,Net Banking,Cancelled,Rajkot
+ORD0039,CUST0039,Smart Watch,Electronics,7.0,50.0,350.0,2024-03-25,Net Banking,Delivered,Pune
+ORD0040,CUST0040,Desk Lamp,Home Decor,8.0,700.0,5600.0,2024-08-04,Unknown,Cancelled,Vadodara
+ORD0041,CUST0041,Office Chair,Furniture,5.0,500.0,2500.0,2024-01-30,Unknown,Returned,Ahmedabad
+ORD0042,CUST0042,Router,Electronics,6.0,50.0,300.0,2024-01-26,Unknown,Cancelled,Vadodara
+ORD0043,CUST0043,Wireless Mouse,Electronics,4.0,150.0,600.0,2024-04-05,UPI,Unknown,Surat
+ORD0044,CUST0044,Printer,Electronics,4.0,2200.0,8800.0,2024-03-02,Unknown,Pending,Ahmedabad
+ORD0045,CUST0045,Keyboard,Electronics,2.0,2200.0,4400.0,2024-12-02,Unknown,Unknown,Mumbai
+ORD0046,CUST0046,Desk Lamp,Home Decor,4.0,700.0,2800.0,2024-06-09,Card,Pending,Pune
+ORD0047,CUST0047,Notebook,Stationery,5.0,3500.0,17500.0,2024-06-10,UPI,Delivered,Jaipur
+ORD0049,CUST0049,Notebook,Stationery,6.0,150.0,900.0,2024-05-05,Cash,Pending,Vadodara
+ORD0051,CUST0051,Printer,Electronics,4.0,700.0,2800.0,2024-12-05,UPI,Delivered,Gandhinagar
+ORD0054,CUST0054,Desk Lamp,Home Decor,1.0,150.0,150.0,2024-11-20,Net Banking,Pending,Ahmedabad
+ORD0055,CUST0055,Wireless Mouse,Electronics,6.0,250.0,1500.0,2024-11-22,Cash,Delivered,Jaipur
+ORD0056,CUST0056,Coffee Mug,Home,7.0,4500.0,31500.0,2024-01-05,UPI,delivered,Vadodara
+ORD0057,CUST0057,Coffee Mug,Home,1.0,1200.0,1200.0,2024-10-25,Unknown,Delivered,Pune
+ORD0058,CUST0058,Notebook,Stationery,1.0,700.0,700.0,2024-07-05,UPI,In Transit,Rajkot
+ORD0059,CUST0059,Printer,Electronics,4.0,700.0,2800.0,2024-02-22,Cash,Returned,Pune
+ORD0060,CUST0060,Keyboard,Electronics,3.0,500.0,1500.0,2024-03-24,Card,In Transit,Ahmedabad
+ORD0061,CUST0061,Notebook,Stationery,6.0,2200.0,13200.0,2024-12-08,Card,Pending,Vadodara
+ORD0062,CUST0062,Marker,Stationery,2.0,2200.0,4400.0,2024-01-20,Net Banking,Pending,Rajkot
+ORD0063,CUST0063,Smart Watch,Electronics,8.0,1200.0,9600.0,2024-06-05,Card,Pending,Ahmedabad
+ORD0064,CUST0064,Printer,Electronics,4.0,2200.0,8800.0,2024-06-17,Cash,delivered,Gandhinagar
+ORD0065,CUST0065,Water Bottle,Home,4.0,2200.0,8800.0,2024-12-13,Unknown,In Transit,Ahmedabad
+ORD0066,CUST0066,Bluetooth Speaker,Electronics,5.0,250.0,1250.0,2024-10-24,Cash,Delivered,Surat
+ORD0067,CUST0067,Keyboard,Electronics,7.0,1200.0,8400.0,2024-06-09,Net Banking,Unknown,Surat
+ORD0069,CUST0069,Coffee Mug,Home,4.0,700.0,2800.0,2024-12-09,Card,In Transit,Pune
+ORD0070,CUST0070,Bluetooth Speaker,Electronics,6.0,5500.0,33000.0,2024-06-09,UPI,Pending,Gandhinagar
+ORD0071,CUST0071,Printer,Electronics,7.0,1200.0,8400.0,2024-07-25,Cash,Returned,Vadodara
+ORD0072,CUST0072,Office Chair,Furniture,7.0,700.0,4900.0,2024-07-13,Card,Unknown,Gandhinagar
+ORD0073,CUST0073,USB Cable,Electronics,4.0,50.0,200.0,2024-06-04,Cash,Pending,Pune
+ORD0075,CUST0075,Monitor,Electronics,4.0,4500.0,18000.0,2024/13/01,Card,delivered,Gandhinagar
+ORD0077,CUST0077,Marker,Stationery,4.0,250.0,1000.0,2024-01-13,UPI,Pending,Jaipur
+ORD0078,CUST0078,Keyboard,Electronics,2.0,3500.0,7000.0,2024-07-31,Unknown,Pending,Pune
+ORD0079,CUST0079,Monitor,Electronics,7.0,500.0,3500.0,2024-03-16,UPI,delivered,Pune
+ORD0081,CUST0081,Smart Watch,Electronics,2.0,3500.0,7000.0,2024-03-09,Net Banking,Returned,Mumbai
+ORD0082,CUST0082,Marker,Stationery,8.0,5500.0,44000.0,2024-09-15,Net Banking,Returned,Jaipur
+ORD0083,CUST0083,Notebook,Stationery,8.0,3500.0,28000.0,2024-05-12,Card,Pending,Jaipur
+ORD0084,CUST0084,Printer,Electronics,4.0,700.0,2800.0,2024-08-13,UPI,Pending,Rajkot
+ORD0085,CUST0085,Desk Lamp,Home Decor,6.0,1200.0,7200.0,2024-10-03,UPI,Delivered,Vadodara
+ORD0087,CUST0087,USB Cable,Electronics,6.0,4500.0,27000.0,2024-08-26,Net Banking,Delivered,Rajkot
+ORD0088,CUST0088,Smart Watch,Electronics,7.0,2200.0,15400.0,2024-10-26,UPI,Unknown,Pune
+ORD0089,CUST0089,Monitor,Electronics,1.0,1200.0,1200.0,2024-06-01,Net Banking,In Transit,Rajkot
+ORD0090,CUST0090,Monitor,Electronics,4.0,700.0,2800.0,2024-08-11,Net Banking,Delivered,Pune
+ORD0093,CUST0093,Notebook,Stationery,8.0,250.0,2000.0,2024-01-26,Cash,In Transit,Mumbai
+ORD0094,CUST0094,Office Chair,Furniture,8.0,1200.0,9600.0,2024-06-21,Net Banking,Pending,Pune
+ORD0095,CUST0095,Desk Lamp,Home Decor,2.0,3500.0,7000.0,2024-01-10,Unknown,Delivered,Mumbai
+ORD0096,CUST0096,Office Chair,Furniture,2.0,700.0,1400.0,2024-01-21,UPI,Pending,Rajkot
+ORD0097,CUST0097,Smart Watch,Electronics,1.0,5500.0,5500.0,2024-03-19,Card,Delivered,Jaipur
+ORD0098,CUST0098,Printer,Electronics,2.0,5500.0,11000.0,2024-04-21,Net Banking,Pending,Mumbai
+ORD0100,CUST0100,Keyboard,Electronics,1.0,700.0,700.0,2024-10-21,Net Banking,In Transit,Rajkot
+ORD0103,CUST0103,Printer,Electronics,6.0,150.0,900.0,2024-09-16,Cash,Delivered,Pune
+ORD0104,CUST0104,Smart Watch,Electronics,8.0,150.0,1200.0,2024-08-09,Cash,Cancelled,Vadodara
+ORD0107,CUST0107,Smart Watch,Electronics,2.0,700.0,1400.0,2024-08-18,Card,Cancelled,Pune
+ORD0108,CUST0108,Water Bottle,Home,1.0,3500.0,3500.0,2024-06-15,Card,Cancelled,Rajkot
+ORD0109,CUST0109,Water Bottle,Home,5.0,1200.0,6000.0,2024-05-23,Unknown,Pending,Ahmedabad
+ORD0110,CUST0110,Coffee Mug,Home,4.0,150.0,600.0,2024-05-03,Net Banking,Cancelled,Rajkot
+ORD0111,CUST0111,Router,Electronics,8.0,700.0,5600.0,2024-12-30,Net Banking,Cancelled,Ahmedabad
+ORD0112,CUST0112,Bluetooth Speaker,Electronics,5.0,500.0,2500.0,2024-07-26,Card,Pending,Mumbai
+ORD0113,CUST0113,Monitor,Electronics,4.0,4500.0,18000.0,2024-06-25,Net Banking,Returned,Mumbai
+ORD0114,CUST0114,Water Bottle,Home,8.0,700.0,5600.0,2024-06-05,Cash,Pending,Surat
+ORD0115,CUST0115,Router,Electronics,4.0,1200.0,4800.0,2024-03-02,Unknown,Delivered,Rajkot
+ORD0116,CUST0116,Office Chair,Furniture,8.0,700.0,5600.0,2024-10-28,Unknown,Unknown,Gandhinagar
+ORD0117,CUST0117,Bluetooth Speaker,Electronics,4.0,700.0,2800.0,2024-04-26,Cash,Delivered,Gandhinagar
+ORD0118,CUST0118,Wireless Mouse,Electronics,4.0,250.0,1000.0,2024-05-20,UPI,Delivered,Gandhinagar
+ORD0119,CUST0119,Router,Electronics,3.0,700.0,2100.0,2024-09-08,UPI,Delivered,Gandhinagar
+ORD0120,CUST0120,Monitor,Electronics,8.0,3500.0,28000.0,2024-06-23,Card,Delivered,Gandhinagar
+ORD0121,CUST0121,Smart Watch,Electronics,8.0,150.0,1200.0,2024-02-03,Net Banking,Cancelled,Surat
+ORD0122,CUST0122,Keyboard,Electronics,1.0,250.0,250.0,2024-03-17,Unknown,Pending,Surat
+ORD0123,CUST0123,Office Chair,Furniture,2.0,4500.0,9000.0,2024-08-01,Unknown,Unknown,Rajkot
+ORD0124,CUST0124,Marker,Stationery,4.0,2200.0,8800.0,2024-08-18,Net Banking,Pending,Pune
+ORD0126,CUST0126,Printer,Electronics,4.0,700.0,2800.0,2024-12-04,UPI,Delivered,Rajkot
+ORD0127,CUST0127,Notebook,Stationery,4.0,150.0,600.0,2024-03-21,UPI,In Transit,Jaipur
+ORD0131,CUST0131,Printer,Electronics,3.0,700.0,2100.0,2024-03-13,UPI,Delivered,Vadodara
+ORD0132,CUST0132,Marker,Stationery,5.0,5500.0,27500.0,2024-10-18,Cash,Cancelled,Surat
+ORD0134,CUST0134,Monitor,Electronics,2.0,5500.0,11000.0,2024-01-21,Net Banking,In Transit,Gandhinagar
+ORD0135,CUST0135,Wireless Mouse,Electronics,2.0,500.0,1000.0,2024-12-11,Unknown,Unknown,Ahmedabad
+ORD0136,CUST0136,Marker,Stationery,5.0,5500.0,27500.0,2024-01-21,Card,Cancelled,Jaipur
+ORD0137,CUST0137,Desk Lamp,Home Decor,3.0,5500.0,16500.0,2024-08-11,Net Banking,delivered,Jaipur
+ORD0138,CUST0138,Water Bottle,Home,7.0,1200.0,8400.0,2024-06-13,UPI,Delivered,Mumbai
+ORD0139,CUST0139,USB Cable,Electronics,8.0,700.0,5600.0,2024-12-05,Net Banking,Returned,Ahmedabad
+ORD0140,CUST0140,Monitor,Electronics,2.0,1200.0,2400.0,2024-05-09,Cash,delivered,Pune
+ORD0141,CUST0141,Smart Watch,Electronics,4.0,50.0,200.0,2024-12-02,Unknown,Cancelled,Pune
+ORD0142,CUST0142,Wireless Mouse,Electronics,4.0,4500.0,18000.0,2024-07-04,Unknown,Cancelled,Jaipur
+ORD0143,CUST0143,Marker,Stationery,1.0,500.0,500.0,2024-05-16,Unknown,Delivered,Gandhinagar
+ORD0144,CUST0144,Monitor,Electronics,8.0,150.0,1200.0,2024-01-15,Unknown,Pending,Vadodara
+ORD0145,CUST0145,Desk Lamp,Home Decor,4.0,50.0,200.0,2024-10-09,Net Banking,delivered,Rajkot
+ORD0146,CUST0146,Smart Watch,Electronics,2.0,3500.0,7000.0,2024-03-01,Card,Cancelled,Gandhinagar
+ORD0147,CUST0147,Coffee Mug,Home,5.0,2200.0,11000.0,2024-09-04,Net Banking,Pending,Jaipur
+ORD0148,CUST0148,Coffee Mug,Home,3.0,2200.0,6600.0,2024-04-07,Unknown,Returned,Vadodara
+ORD0149,CUST0149,Smart Watch,Electronics,2.0,700.0,1400.0,2024-07-31,Cash,Returned,Gandhinagar
+ORD0150,CUST0150,Smart Watch,Electronics,1.0,700.0,700.0,2024-06-01,Unknown,Unknown,Jaipur
+ORD0151,CUST0151,Smart Watch,Electronics,3.0,3500.0,10500.0,2024-10-02,Net Banking,In Transit,Mumbai
+ORD0152,CUST0152,Coffee Mug,Home,4.0,2200.0,8800.0,2024-08-21,Cash,Pending,Rajkot
+ORD0153,CUST0153,Keyboard,Electronics,7.0,500.0,3500.0,2024-07-29,UPI,In Transit,Jaipur
+ORD0154,CUST0154,Router,Electronics,7.0,2200.0,15400.0,2024-12-05,Card,Cancelled,Ahmedabad
+ORD0155,CUST0155,Notebook,Stationery,4.0,5500.0,22000.0,2024-06-18,UPI,Cancelled,Surat
+ORD0156,CUST0156,Coffee Mug,Home,8.0,50.0,400.0,2024-03-14,Net Banking,Delivered,Surat
+ORD0157,CUST0157,Monitor,Electronics,5.0,1200.0,6000.0,2024-11-15,Net Banking,delivered,Mumbai
+ORD0158,CUST0158,Smart Watch,Electronics,4.0,2200.0,8800.0,2024-06-11,Net Banking,Returned,Ahmedabad
+ORD0159,CUST0159,Keyboard,Electronics,2.0,500.0,1000.0,2024-11-19,Cash,Pending,Surat
+ORD0160,CUST0160,USB Cable,Electronics,2.0,700.0,1400.0,2024-12-26,UPI,Cancelled,Vadodara
+ORD0161,CUST0161,Router,Electronics,5.0,50.0,250.0,2024-01-24,Cash,Delivered,Gandhinagar
+ORD0162,CUST0162,Water Bottle,Home,6.0,2200.0,13200.0,2024-03-15,Card,Returned,Pune
+ORD0163,CUST0163,Keyboard,Electronics,3.0,250.0,750.0,2024-03-30,UPI,Unknown,Pune
+ORD0164,CUST0164,Keyboard,Electronics,4.0,3500.0,14000.0,2024-10-25,Card,Pending,Jaipur
+ORD0165,CUST0165,Printer,Electronics,5.0,3500.0,17500.0,2024-05-10,UPI,Cancelled,Gandhinagar
+ORD0166,CUST0166,Printer,Electronics,4.0,250.0,1000.0,2024-02-07,Net Banking,In Transit,Gandhinagar
+ORD0168,CUST0168,USB Cable,Electronics,8.0,150.0,1200.0,2024-05-01,Net Banking,Unknown,Mumbai
+ORD0171,CUST0171,Marker,Stationery,4.0,5500.0,22000.0,2024-06-29,Card,Pending,Gandhinagar
+ORD0172,CUST0172,Printer,Electronics,3.0,700.0,2100.0,2024-02-19,UPI,Pending,Jaipur
+ORD0174,CUST0174,Router,Electronics,7.0,250.0,1750.0,2024-04-12,Card,Returned,Mumbai
+ORD0175,CUST0175,Coffee Mug,Home,4.0,700.0,2800.0,2024-03-25,Cash,Cancelled,Gandhinagar
+ORD0176,CUST0176,Router,Electronics,6.0,150.0,900.0,2024-08-27,UPI,Delivered,Rajkot
+ORD0177,CUST0177,Smart Watch,Electronics,7.0,4500.0,31500.0,2024-07-06,UPI,In Transit,Ahmedabad
+ORD0178,CUST0178,Desk Lamp,Home Decor,4.0,150.0,600.0,2024-08-20,Cash,Pending,Pune
+ORD0179,CUST0179,Smart Watch,Electronics,6.0,150.0,900.0,2024-12-11,Card,Cancelled,Ahmedabad
+ORD0180,CUST0180,Keyboard,Electronics,4.0,1200.0,4800.0,2024-11-08,Card,delivered,Jaipur
+ORD0181,CUST0181,Router,Electronics,5.0,700.0,3500.0,2024-07-28,UPI,Delivered,Ahmedabad
+ORD0182,CUST0182,Wireless Mouse,Electronics,5.0,3500.0,17500.0,2024-02-29,UPI,Pending,Vadodara
+ORD0183,CUST0183,USB Cable,Electronics,8.0,1200.0,9600.0,2024-12-09,Unknown,In Transit,Vadodara
+ORD0184,CUST0184,USB Cable,Electronics,2.0,3500.0,7000.0,2024-11-11,Net Banking,Pending,Ahmedabad
+ORD0185,CUST0185,Router,Electronics,6.0,500.0,3000.0,2024-08-15,Net Banking,Pending,Mumbai
+ORD0186,CUST0186,Bluetooth Speaker,Electronics,6.0,4500.0,27000.0,2024-11-26,Cash,Delivered,Pune
+ORD0187,CUST0187,Desk Lamp,Home Decor,4.0,150.0,600.0,2024-08-20,UPI,Pending,Ahmedabad
+ORD0188,CUST0188,Wireless Mouse,Electronics,6.0,500.0,3000.0,2024-03-05,Unknown,Pending,Surat
+ORD0189,CUST0189,Smart Watch,Electronics,4.0,500.0,2000.0,2024-10-27,Card,Pending,Mumbai
+ORD0190,CUST0190,Marker,Stationery,3.0,5500.0,16500.0,2024-01-02,Cash,Delivered,Vadodara
+ORD0191,CUST0191,Coffee Mug,Home,5.0,250.0,1250.0,2024-02-26,UPI,Delivered,Ahmedabad
+ORD0192,CUST0192,Water Bottle,Home,4.0,5500.0,22000.0,2024-06-14,UPI,Delivered,Gandhinagar
+ORD0194,CUST0194,Monitor,Electronics,8.0,1200.0,9600.0,2024-09-19,Unknown,delivered,Jaipur
+ORD0195,CUST0195,Coffee Mug,Home,4.0,5500.0,22000.0,2024-01-23,Unknown,Pending,Jaipur
+ORD0196,CUST0196,Printer,Electronics,1.0,50.0,50.0,2024-09-02,Net Banking,In Transit,Surat
+ORD0197,CUST0197,Monitor,Electronics,8.0,150.0,1200.0,2024-02-11,Cash,Unknown,Vadodara
+ORD0198,CUST0198,Bluetooth Speaker,Electronics,3.0,700.0,2100.0,2024-11-15,Unknown,Returned,Mumbai
+ORD0200,CUST0200,Bluetooth Speaker,Electronics,2.0,700.0,1400.0,2024-11-29,Unknown,Pending,Pune
